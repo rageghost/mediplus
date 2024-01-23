@@ -1,0 +1,176 @@
+.cls1 {
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+   flex-wrap: wrap;
+
+
+}
+div a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.cls2{
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 10px;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    
+    flex-wrap: wrap;
+}
+
+ div .cls3{
+    padding: 9px;
+    
+    border-radius: 10px;
+ } 
+  .cls5{
+    background-image: url(/assets/images/doctor3.avif);
+    padding-bottom: 250px;
+    background-repeat: no-repeat;
+    // position: absolute;
+    }
+    .cls5 .medical{
+        color: blue;
+    }
+    .cls5 h1{
+        width: 400px;
+    position: relative;
+    top: 83px;
+    left: 45px;
+    
+    }
+    .cls5 p{
+        padding: 10px;
+    position: relative;
+    top: 75px;
+    left: 41px;
+    width: 334px;
+    text-align: center;
+    font-size: 19px;
+    }
+    .cls5 .button1{
+        position: relative;
+    left: 72px;
+    top: 74px;
+    padding: 7px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+}
+   .cls5 .button2{
+    position: relative;
+    left: 110px;
+    top: 74px;
+    padding: 7px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    position: relative;
+    bottom: 110px;
+    flex-wrap: wrap;
+    align-items: center;
+
+    
+}
+   .cls6{
+    width: 270px;
+   }
+   .container1 .cls7{
+    background-color: rgb(65, 65, 221);
+    padding: 15px;
+    border-radius: 15px;
+   
+   }
+   div .cls8{
+    text-align: center;
+   }
+   .cls9 img{
+    // align-items: center;
+    position: relative;
+    left: 48%;
+   }
+   .cls9 p{
+    width: 414px;
+    position: relative;
+    left: 34%;
+    text-align: center;
+   }
+   .cls10{
+    gap: 70px;
+    // left: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    padding-left: 83px;
+    flex-wrap: wrap;
+    // flex-grow: 1;
+
+    
+
+   }
+   .cls11 img{
+    width: 125px;
+   }
+   .cls12 img{
+    width: 125px;
+   }
+   .cls10 p{
+    width: 341px;
+   }
+  .cls14 img{
+    width: 65px;
+  }
+  .cls14{
+    display: flex;
+    /* row-gap: 43px; */
+    gap: 47px;
+    justify-content: center;
+    padding-top: 78px;
+    background-color: antiquewhite;
+    border-radius: 78px;
+    flex-wrap: wrap;
+  }
+  .container4{
+    // text-align: center;
+    
+    text-align: center;
+    padding-top: 65px;
+  }
+  .container6{
+    display: flex;
+    // flex-wrap: wrap;
+    justify-content: space-around;
+    // flex-wrap: wrap;
+    
+    
+  }
+  .container8 img{
+    width: 100%;
+    position: relative;
+    right: 71px;
+    // flex-wrap: wrap;
+  }
+  .container7 p{
+    width: 40%;
+  }
+  .container7 hr{
+    position: relative;
+    right: 44%;
+  }
+  .container7{
+    // flex-wrap: wrap;
+    position: relative;
+    left: 100px;
+  }
+  .container6 div{
+    flex-wrap: wrap;
+  }
